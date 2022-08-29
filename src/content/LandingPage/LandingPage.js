@@ -73,7 +73,7 @@ const LandingPage = () => {
 
           let config = {
             method: 'post',
-            url: url,//'https://qejaw22fak.execute-api.us-east-2.amazonaws.com/Prod/predictions/',
+            url: url,
             headers: {
               'Content-Type': 'application/json'
             },
